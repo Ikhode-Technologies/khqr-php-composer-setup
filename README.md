@@ -146,4 +146,4 @@ MIT - See the LICENSE file for details
 
 ## Support
 
-For support, please contact [your contact information] or create an issue in the repository.
+For support, please contact with this <a href="https://bio.ikhode.site/" >contact list</a> or create an issue in the repository.
