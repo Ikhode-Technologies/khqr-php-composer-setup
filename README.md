@@ -1,5 +1,7 @@
 # khqr-php-composer-setup
-khqr payment method implement in php composer environment
+
+> 💡
+> Only Silver Membership can access this private repo - let's our join <a href="https://discord.com/invite/ySCGdyArHb" >discord server</a>
 
 ![image](https://github.com/user-attachments/assets/5470ded5-b424-4c79-8125-03b658a4291f)
 <table>
