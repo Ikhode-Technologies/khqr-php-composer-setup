@@ -40,6 +40,12 @@ This project implements a payment gateway for the Bakong KHQR system (Cambodia's
 - A Bakong merchant account with API access
 - Web server (Apache, Nginx, etc.)
 
+
+<p>
+     <img width="400" src="https://github.com/user-attachments/assets/6fa05e7f-251d-491c-ab64-8fe230d40641" alt="Profile Image" title="screenshot image of khqr php composer setup with simple ui">
+</p>
+<p><em>screenshot image of khqr php composer setup with simple ui</em></p>
+ 
 ## Installation
 
 1. Clone the repository:
