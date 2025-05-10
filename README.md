@@ -3,6 +3,15 @@
 > 💡
 > Only Silver Membership can access this private repo - let's our join <a href="https://discord.com/invite/ySCGdyArHb" >discord server</a>
 
+<!-- Header Links -->
+[![Portfolio](https://img.shields.io/badge/-artstation-blue?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/ikhode)
+[![Portfolio](https://img.shields.io/badge/-gumroad-red?style=flat&logo=gumroad&logoColor=white)](https://ikhodestudio.gumroad.com/l/kxpyjf)
+[![Portfolio](https://img.shields.io/badge/-twitch-violet?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/ikhode_kh)
+[![Portfolio](https://img.shields.io/badge/-instagram-hotpink?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ikhode.kh/)
+[![Portfolio](https://img.shields.io/badge/-tiktok-graypink?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ikhode_studio)
+[![Portfolio](https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/IkhodeStudio)
+[![Portfolio](https://img.shields.io/badge/-youtube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@IkhodeStudio)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soy-tet-45a215280)
 ![image](https://github.com/user-attachments/assets/5470ded5-b424-4c79-8125-03b658a4291f)
 <table>
   <tr>
