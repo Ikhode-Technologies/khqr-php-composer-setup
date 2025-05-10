@@ -8,13 +8,13 @@
   <tr>
     <td>
       <a href="https://www.ikhode.site/">
-        <img width="350" src="https://github.com/user-attachments/assets/8aead125-14da-4205-a01f-eb5eb9b8da5b" alt="Profile Image">
+        <img width="550" src="https://github.com/user-attachments/assets/8aead125-14da-4205-a01f-eb5eb9b8da5b" alt="Profile Image">
       </a>
     </td>
     <td>
-      I'm a <strong>Software Developer</strong> passionate about <strong>coding</strong> and building tools that help people with their daily tasks.
+      I'm a <strong>Software Developer</strong> who passionate about <strong>coding</strong> and building tools that help people with their daily tasks.
       I'm currently exploring <strong>AI solutions</strong> and working with <strong>modern tech stacks</strong>. I'm also on a journey to level up my 
-      <strong>Spaghetti Code</strong> skills. Support us by make some donate and I really appricate that. តិចក្ដី ច្រើនក្ដី
+      <strong>Spaghetti Code</strong> skills. Support us by make some donate and I really appricate that.
       <br><br>
       Got a question? Feel free to <a href="https://bio.ikhode.site/">contact me anytime</a>.
     </td>
